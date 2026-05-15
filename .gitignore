@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Test CSV files — don't commit local test data
+test.csv
+*.csv
+
+# Railway
+.railway/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
